@@ -11,8 +11,10 @@ Raathan Rajakumar,
 Priyanshu Sarkar,
 Ricky Zou
 
+Special thanks to Kenny Wu, who was a massive help to the completion of this project.
 
-ASL Recognition with Teachable Machine and Text-to-Speech Integration
+
+# ASL Recognition with Teachable Machine and Text-to-Speech Integration
 
 
 Overview:
